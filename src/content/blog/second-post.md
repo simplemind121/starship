@@ -1,9 +1,11 @@
 ---
-title: "中美关系及地缘政治点评"
-description: "关于近期局势的一点思考"
-pubDate: "2026-05-17"
-heroImage: "/blog-placeholder-about.jpg"
+title: 'Second post'
+description: 'Lorem ipsum dolor sit amet'
+pubDate: 'Jul 22 2022'
+heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
+
+Lorem 
 
 这里是你之前的正文内容...
 
