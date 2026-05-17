@@ -1,5 +1,5 @@
 ---
-title: "中美关系及地缘政治点评"
+title: "Second post"
 description: "关于近期局势的一点思考"
 pubDate: "2026-05-17"
 heroImage: "/blog-placeholder-about.jpg"
